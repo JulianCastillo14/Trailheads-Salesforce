@@ -1,0 +1,3 @@
+[submodule "troubleshoot-lwc"]
+    path = troubleshoot-lwc
+    url = https://github.com/JulianCastillo14/troubleshoot-lwc.git
